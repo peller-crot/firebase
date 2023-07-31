@@ -1,4 +1,3 @@
-# firebase
 Tools to perform exploit firebase
 ```
 λ  ~ git clone https://github.com/peller-crot/firebase.git
