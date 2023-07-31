@@ -1,2 +1,2 @@
 # firebase
-Tools to perform exploit firebase golang
+Tools to perform exploit firebase
